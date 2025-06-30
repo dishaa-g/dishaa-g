@@ -10,6 +10,10 @@
 
 - 📫 How to reach me **disha29gupta@gmail.com**
 
+- 📄 Here's my [Resume](https://github.com/dishaa-g/resume/raw/main/disha_final_resume.pdf)
+ if you'd like to know more about my work!
+- 🌐 Explore more of my work on my portfolio
+
 - ⚡ Fun fact **I can turn coffee into code and bugs into features (most of the time)! 😄**
 
 <h3 align="left">Connect with me:</h3>
